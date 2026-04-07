@@ -51,7 +51,6 @@ with st.sidebar:
         st.session_state.total_km = 0
         save_total_km(0)
         st.rerun()
-
 # --- 5. 主畫面：旅程顯示 ---
 st.title("🏃‍♀️ 心理絲綢之路：虛擬長跑")
 st.markdown("### 這不僅是里程，更是與自己對話的過程。")
